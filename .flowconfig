@@ -1,0 +1,7 @@
+[ignore]
+.*/node_modules/babel*
+.*/node_modules/babylon/.*
+.*/dest/.*
+[include]
+[libs]
+[options]
